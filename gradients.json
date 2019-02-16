@@ -1339,5 +1339,8 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
-    }
+    },
+    {
+        "name": "Bejeweled",
+        "colors": ["#9b111e", "#0f52ba", "#9966cc",]
 ]
